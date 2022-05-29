@@ -23,3 +23,5 @@
 2B
 100
 18B
+
+![Screenshot](photo_plane.jpg)
